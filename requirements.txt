@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pyautogui
+pywin32
+Pillow
+paddlepaddle 
+paddleocr
+psutil
